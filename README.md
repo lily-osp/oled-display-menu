@@ -66,6 +66,10 @@ U -- Yes --> V(Change Page to 0)
 U -- No --> C
 ```
 
+## Image
+
+![Image](https://github.com/1999AZZAR/oled-display-menu/blob/master/dump%20code/Screenshot%202023-06-13%20021614.png)
+
 ## Customization
 
 You can modify the code to suit your specific requirements. Here are some possible modifications:
