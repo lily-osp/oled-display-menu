@@ -68,7 +68,7 @@ U -- No --> C
 
 ## Image
 
-![Image](https://github.com/1999AZZAR/oled-display-menu/blob/master/dump%20code/Screenshot%202023-06-13%20021614.png)
+![Image](https://github.com/1999AZZAR/oled-display-menu/blob/master/pic/picture.png)
 
 ## Customization
 
